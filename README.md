@@ -11,7 +11,7 @@ To run the program, please follow these steps:
     
     2. Install Requirements: Install the necessary requirements listed in the "env_requirements" file.
     
-    3. Add Files in Github to Bacheloroppgave Folder: Add the pyhton files in this GitHub repository to the the "Baxheleoroppgave" folder you downloaded from google drive.
+    3. Add Files in Github to Bacheloroppgave Folder: Add the pyhton files in this GitHub repository to the the "Bacheloroppgave" folder you downloaded from google drive.
     
     4. Add Documents: To use additional documents, add them to the "source_documents" folder and run embedV3.
     
